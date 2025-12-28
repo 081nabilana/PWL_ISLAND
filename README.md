@@ -180,7 +180,7 @@ npm install
 
 ## 👥 Tim Pengembang
 
-Tubes PWL - Sistem Pendukung Keputusan
+
 Nabila Noor Azizah [F1D0202081]
 
 Abdul Wafa [F1D0202104]
@@ -189,7 +189,8 @@ Saufan Ridho [F1D02310091]
 
 ## 📄 License
 
-ISC
+ISLAND TIM - Sistem Pendukung Keputusan
 
 ---
+
 
